@@ -7,3 +7,6 @@ Introduction to tasks that will be covered by you yams.
 3) Place the file in a folder
 4) Set the folder name to be your user name
 5) Report to the slack channel on completion. 
+
+
+Most important: Set your profile image.
